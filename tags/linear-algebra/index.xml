@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linear Algebra on ayush-jangid.in</title>
-    <link>https://ursaj.github.io/tags/linear-algebra/</link>
-    <description>Recent content in Linear Algebra on ayush-jangid.in</description>
+    <title>Linear Algebra on Hugo Profile</title>
+    <link>http://localhost:1313/tags/linear-algebra/</link>
+    <description>Recent content in Linear Algebra on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ursaj.github.io/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ML Research and Computational Mathematics Roadmap</title>
-      <link>https://ursaj.github.io/blogs/roadmap/</link>
+      <link>http://localhost:1313/blogs/roadmap/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://ursaj.github.io/blogs/roadmap/</guid>
+      <guid>http://localhost:1313/blogs/roadmap/</guid>
       <description>&lt;!-- Emoji can be enabled in a Hugo project in a number of ways. :zap: --&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;When I started my college, I had an interest in Mathematics and thus started learning it from online courses like &lt;strong&gt;&lt;code&gt;Convex Optimization by Stephen Boyd&lt;/code&gt;, &lt;code&gt;Linear Algebra by Gilbert Strang&lt;/code&gt;&lt;/strong&gt; and then later I started out with Python and Machine Learning from &lt;strong&gt;&lt;code&gt;Andrew NG&lt;/code&gt;&lt;/strong&gt;&amp;rsquo;s basic Coursera courses.&lt;/p&gt;&#xA;&lt;p&gt;Even after understanding mathematics first, it was not of much help to me in understanding ML comcepts as I couldn&amp;rsquo;t relate them together, because the depth I studied earlier wasn&amp;rsquo;t required much initially in ML. But during my final years in collge, when I started to study more and more papers, I used to feel great connection between the two and thus used to give me a great intuition.&lt;/p&gt;</description>
     </item>
   </channel>
